@@ -1,0 +1,15 @@
+.container{
+    
+    height: 200px;
+    width: 200px;
+    border: solid 1px black ;
+    background: gray;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.boton{
+    background-color: blue;
+}
